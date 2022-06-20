@@ -1,0 +1,20 @@
+
+1. List = ['hello', 'how', 'are', 'you', 22, 67, 'Im', 'Fine', 'wbt','you']
+   
+Perform all basics funtion to it-
+printing statement
+slicing
+delete
+replace
+insert
+rfind,find
+count
+split
+count
+tuples
+lowercase,uppercase
+
+2.Do a simple maths using python for atleast 6 type
+ex- addition,subtracrion etc
+
+
